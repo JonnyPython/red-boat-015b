@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "comments",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "19280757-9817-4b23-a2dc-2be23eeb240d",
+      "database_name": "template"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
